@@ -15,7 +15,7 @@
 
 <br>
 
-### Frameworks & Languages
+### Frameworks, Languages & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,mongodb,prisma,postgres,nodejs,tailwind,vercel,vscode,figma&theme=dark)]([https://safikhan.me])
 
