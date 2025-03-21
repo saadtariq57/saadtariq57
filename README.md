@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,mongodb,prisma,postgres,nodejs,tailwind,vercel,vscode,figma&theme=dark)]([https://safikhan.me])
 
 [mail]: saadtariq57000@gmail.com
-[linkedin]: https://www.linkedin.com/in/saad-tariq-6789b1342
+[linkedin]: https://www.linkedin.com/in/saadtariq57
 
 ---
 
