@@ -16,7 +16,7 @@
     <img align="left" alt="Saad Tariq | Linkedin" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
 <a href="https://saadt.vercel.app" target="_blank">
-    <img align="left" alt="Saad Tariq | Linkedin" width="28px" src="https://img.freepik.com/premium-vector/web-icon-web-icon-vector-web-icon-png-web-icon-download-website-image-icon-website-logo-design_1120995-74.jpg" />
+    <img align="left" alt="Saad Tariq | Linkedin" width="28px" src="https://static.vecteezy.com/system/resources/thumbnails/003/731/316/small_2x/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg" />
 </a>
 <br>
 
