@@ -7,6 +7,7 @@
 
 - I’m currently learning **Next.js**
 - I've worked on **Next.js, React.js, TypeScript, MongoDB, Prisma, PostgreSQL, Tailwind CSS**.
+- My [Portfolio](https://saadt.vercel.app)
 - Care to reach me: saadtariq57000@gmail.com
 
 ### Connect with me
