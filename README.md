@@ -11,8 +11,9 @@
 
 ### Connect with me
 
-[<img align="left" alt="Saad Tariq | Linkedin" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
-
+<a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img align="left" alt="Saad Tariq | Linkedin" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
+</a>
 <br>
 
 ### Frameworks, Languages & Tools
