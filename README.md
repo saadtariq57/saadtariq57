@@ -11,7 +11,7 @@
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+<a href="https://www.linkedin.com/in/saadtariq57/" target="_blank">
     <img align="left" alt="Saad Tariq | Linkedin" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
 <br>
