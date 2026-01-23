@@ -24,7 +24,7 @@
 
 ### Frameworks, Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,mongodb,prisma,postgres,nodejs,express,tailwind,vercel,appwrite,vscode,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,mongodb,prisma,postgres,mysql,nodejs,express,Laravel,flutter,tailwind,vercel,appwrite,firebase,redis,git,figma&theme=dark)
 
 [mail]: saadtariq57000@gmail.com
 [linkedin]: https://www.linkedin.com/in/saadtariq57
