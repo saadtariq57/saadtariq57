@@ -5,7 +5,6 @@
 <h2>Software Engineer (Agentic AI | Automation | Web | Backend)</h2>
 </div>
 
-- I’m currently learning **Next.js**
 - I've worked on **LangGraph, RAG, Agentic Architecture, n8n, Next.js, React.js, NestJS, Express.js, Node.js, TypeScript, MongoDB, PostgreSQL, Tailwind CSS**.
 - My [Portfolio](https://saadt.vercel.app)
 - Care to reach me: saadtariq57000@gmail.com
